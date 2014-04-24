@@ -47,6 +47,7 @@ Thumbs.db
 
 
 tempfile.txt
+tempfile2.txt
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
